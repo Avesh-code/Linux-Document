@@ -45,6 +45,3 @@
 | /tmp      | Temporary storage for files that can be deleted anytime |
 | /usr      | Programs, tools, and libraries for all users |
 | /var      | Files that keep changing (logs, emails, print jobs) |  
-
-![Linux Directory Structure](generated-image.png)  
-
