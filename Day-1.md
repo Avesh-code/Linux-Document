@@ -11,7 +11,7 @@
 `df –h` : to check disk usage  
 `ls ch*` : list of files whose name is started by ch in current directory.  
 `ls –a` : list of the files present in current directory  
-`vim filename` : to create a file in current directory and edit content  
+`vim filename` : it is editor to create a file in current directory and edit content  
 `cat filename` : to display content of that file  
 `cat –b filename` : to display the content with line numbers  
 `cw filename` : count line, word and character.  
