@@ -4,4 +4,5 @@
 ### [2. Day 2 {08-10-25} of Linux](Day-2-08-10-25.md)  
 ### [3. Day 3 {09-10-25} of Linux](Day-3-09-10-25.md) 
 ### [4. Day 4 {10-10-25} of Linux](Day-4-10-10-25.md) 
-### [4. Day 5 {11-10-25} of Linux](Day-5-11-10-25.md) 
+### [5. Day 5 {11-10-25} of Linux](Day-5-11-10-25.md) 
+### [6. Day 6 {13-10-25} of Linux](Day-6-13-10-25.md) 
