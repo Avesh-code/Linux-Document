@@ -14,7 +14,7 @@
 `vim filename` : it is editor to create a file in current directory and edit content  
 `cat filename` : to display content of that file  
 `cat –b filename` : to display the content with line numbers  
-`cw filename` : count line, word and character.  
+`cw filename` : count line, word and bytes.  
 `cw filename1 filename2 filename3` : multiple files counting lines, words, and characters.  
 `cp filename1 filename2` : copy the file with other name  
 `mv filename2 desti_add` : move the file from current directory to new directory.  
